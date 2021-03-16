@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Klinik HP</string>
+    <string name="title_activity_main_menu_staff">MainMenuStaffActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_main_menu_staffx">MainMenuStaffActivity</string>
+    <string name="home">Home</string>
+    <string name="daftar">Pendaftaran</string>
+    <string name="pasien">Pasien</string>
+    <string name="dokter">Dokter</string>
+    <string name="rkMedis">Rekam Medis</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_password">Masukan Password</string>
+    <string name="hint_username">Masukan Username</string>
+    <string name="title_text">TITLE TEXT</string>
+    <string name="text_batalkan">Batalkan</string>
+    <string name="text_login">Login :</string>
+    <string name="text_username">Username :</string>
+    <string name="txt_ID_STAFF">ID staff</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_welcome">Selamat Datang !!</string>
+    <string name="txt_pembatas">:</string>
+    <string name="daftar_dokter">Pendaftaran Dokter &amp; Jadwal</string>
+    <string name="daftar_pasien">Pendaftaran Pasien</string>
+    <string name="title_daftar_pasien">Daftar Pasien</string>
+    <string name="no_ktp">No. KTP :</string>
+    <string name="hint_no_ktp">Masukan No. KTP</string>
+    <string name="nama_pasien">Nama Pasien :</string>
+    <string name="masukan_nama_pasien">Masukan Nama Pasien</string>
+    <string name="back_icon">back icon</string>
+    <string name="alamat">Alamat :</string>
+    <string name="umur">Umur :</string>
+    <string name="masukan_umur">Masukan Umur</string>
+    <string name="no_telp">No. Telp :</string>
+    <string name="nama_ibu">Nama Ibu :</string>
+    <string name="masukan_nama_ibu">Masukan Nama Ibu</string>
+    <string name="nama_pasangan">Nama Pasangan :</string>
+    <string name="btn_daftar_pasien">Daftar Pasien</string>
+    <string name="pasangan">Jika Tidak ada boleh diisi -</string>
+    <string name="nama_dokter">Nama Dokter :</string>
+    <string name="hint_nama_dokter">Masukan Nama Dokter</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="poli">Poli :</string>
+    <string name="hint_poli">Masukan nama Poli</string>
+    <string name="hint_telp">Masukan No.Telp</string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="login_admin">Login sebagai Admin</string>
+    <string name="login_dokter">Login sebagai Dokter</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="txt_login_admin">Login Admin</string>
+    <string name="txt_login_dokter">Login Dokter</string>
+    <string name="from">From :</string>
+    <string name="to">To :</string>
+    <string name="format_tanggal">dd/mm/yyyy</string>
+    <string name="go">Go</string>
+    <string name="image_filter">image filter</string>
+
+
+    <string-array name="jenkel_arrays">
+        <item>Laki - Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="status_arrays">
+        <item>Menikah</item>
+        <item>Belum Menikah</item>
+    </string-array>
+    <string-array name="daftar_dokter_arrays">
+        <item>Data Dokter</item>
+        <item>Jadwal Dokter</item>
+    </string-array>
+
+</resources>

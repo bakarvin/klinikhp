@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667186586074",
+    "project_id": "klinik-hp",
+    "storage_bucket": "klinik-hp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667186586074:android:a845112de95b9fbe23e0e3",
+        "android_client_info": {
+          "package_name": "com.bakarvin.klinikhp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667186586074-hpus1b0p1ruq3j3q7vtttmb6rigb58c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwmbnGQWE-xyjSQglmH5iQWmDGY0_8t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667186586074-hpus1b0p1ruq3j3q7vtttmb6rigb58c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
