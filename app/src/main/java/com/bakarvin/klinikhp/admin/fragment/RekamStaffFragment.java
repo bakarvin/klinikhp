@@ -106,6 +106,7 @@ public class RekamStaffFragment extends Fragment {
         for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
             RekamMedis rekamMedis = snapshot.getValue(RekamMedis.class);
             medisList.add(rekamMedis);
+
         }
         medisAdapter = new MedisAdapter(medisList);
         if (medisAdapter.getItemCount() == 0){
